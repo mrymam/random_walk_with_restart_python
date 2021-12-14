@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+requirements.txt
+setup.py
+test-requirements.txt
+random_walk_with_restart/__init__.py
+random_walk_with_restart/rwr.py
+random_walk_with_restart.egg-info/PKG-INFO
+random_walk_with_restart.egg-info/SOURCES.txt
+random_walk_with_restart.egg-info/dependency_links.txt
+random_walk_with_restart.egg-info/top_level.txt
